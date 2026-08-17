@@ -74,6 +74,8 @@ Fixed several missing Terra UI/modifier localizations and continued cleaning pla
 
 其中既有孔子、老子、孟子、庄子、墨子、荀子、韩非、孙子等诸子，也有商鞅、李斯、嬴政、陈胜、刘邦、项羽、韩信、霍去病、班超、马援等真正置身于政治与战争中的人物；既有治国、战争与权力，也有兴亡、民生、财富、理想与个人命运。
 
+目前加载格言总数为 [b]312 条[/b]。其中，Terra / Invictus 原有格言为 [b]181 条[/b]，主要取材于中国以外的古典世界；TEOW（直到世界尽头）引入的中国古典格言为 [b]72 条[/b]；本补丁在此基础上新增 [b]59 条[/b]，其中中国古典材料 [b]50 条[/b]，中国以外古典世界材料 [b]9 条[/b]。
+
 我们并不追求单纯增加数量，而更希望保留那些即使脱离上下文，仍然能够让人停下来读一眼的句子。
 
 完整的新增加载格言及出处整理见 GitHub：
@@ -143,6 +145,8 @@ Examples:
 Imperator: Rome's original loading tips were never strictly limited to the game's start and end dates. They draw from a broader classical world, from early and classical Greece through the Roman Republic and even into the second-century Roman Empire.
 
 For the Chinese additions, we follow a similar standard: not only the late Warring States period at game start, but also earlier classical texts and the Spring and Autumn / Warring States periods, the Hundred Schools, Qin unification, the Chu-Han contention, the Western Han Empire, and the middle Eastern Han before the Ten Attendants period.
+
+The current loading-tip pool contains [b]312 tips[/b] in total. Of these, [b]181[/b] come from the original Terra / Invictus set, mostly drawn from the non-Chinese classical world; [b]72[/b] Chinese classical tips were inherited from TEOW; and this patch adds another [b]59[/b] tips, including [b]50[/b] Chinese classical entries and [b]9[/b] non-Chinese classical entries.
 
 The goal is not simply to increase the number of tips, but to include lines that remain memorable and readable even outside their original context.
 
