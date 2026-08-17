@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ JOMINI_MULTIPLAYER_GUI_OOS_MESSAGE_FOLDER:0 "报告已创建在 imperator 日志文件夹中。"
+ JOMINI_MULTIPLAYER_GUI_OOS_MESSAGE_PLAYER_NAME:0 "[OosData.GetPlayable.GetCountry.GetName]"
+ JOMINI_MULTIPLAYER_GUI_OOS_MESSAGE_TYPE:0 "发现不匹配：[OosData.GetType]"
+ PROVINCE_DEBUG:0 "\n\n#D ID: [PROVINCE.GetId] [PROVINCE.GetTag], [PROVINCE.GetOwner.GetName] ([PROVINCE.GetOwner.GetDebugTag] (Flag: [PROVINCE.GetOwner.GetFlag]))\n[PROVINCE.GetArea.GetName] ([PROVINCE.GetArea.GetTag]),\n[PROVINCE.GetArea.GetRegion.GetName] ([PROVINCE.GetArea.GetRegion.GetTag])\n[PROVINCE.GetDominantReligion.GetName] [PROVINCE.GetDominantCulture.GetName]\n规模：[PROVINCE.GetSize]#!"
+ PROVINCE_TOOLTIP_players:0 "[GetPlayerName(PROVINCE.GetOwner)]\n\n立场：[PROVINCE.GetOwner.GetDiplomaticStance.GetName]\n\n船：[PROVINCE.GetOwner.GetTotalNumOfShips|Y]\n稳定度：[PROVINCE.GetOwner.GetStability|0Y]\n领土数量：[PROVINCE.GetOwner.GetOwnedProvinceCount|Y]\n人口：[PROVINCE.GetOwner.GetTotalPopulation|Y]"
+ SECONDARY_HEIR_CHAR:0 "[CHARACTER.GetSheHe|U][CHARACTER.GetIsWas]#Y 是 [CHARACTER.GetCountry.GetRulerTitle]#!继承的第二顺位"
+ SECONDARY_HEIR_CHAR_ADD:0 " 和#Y [CHARACTER.GetCountry.GetRulerTitle]#!继承的第二顺位的是"
+ SECONDARY_HEIR_CHAR_ONCE:0 "#Y [CHARACTER.GetCountry.GetRulerTitle]#!继承的第二顺位的是"

@@ -1,0 +1,2 @@
+﻿l_simp_chinese:
+ warfare.1.desc:0 "[SCOPE.sChar('siege_instigator').GetName]和[SCOPE.sChar('siege_instigator').GetHerHis]的部下业已在[SCOPE.sP('temp_city_scope_warfare_1').GetName]的围攻战中取得光荣的胜利。在敌军溃逃后，剩下要决定的就是城内居民的命运了。\n\n不言而喻，由于丰富的战利品，[SCOPE.sChar('siege_instigator').GetPraenomen]在[SCOPE.sChar('siege_instigator').GetEmployer.GetCapital.GetName]的人们中将获得极大的威望。但是在一个[SCOPE.sChar('siege_instigator').GetWomanMan]手中聚集如此多财富将留下隐患……"

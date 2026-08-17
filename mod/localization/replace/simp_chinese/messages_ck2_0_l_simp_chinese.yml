@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+ NEWMON_1:0 "$MONARCHNAME$"
+ NEWMON_3:0 "从此将统治我们伟大的国家"
+ NEWMON_5:0 "@military_icon! $MARTIAL$ @civic_icon! $FINESSE$  @oratory_icon! $CHARISMA$ @religious_icon! $ZEAL$"
+ NEWMON_6:0 "$PARTY_INFO$"
+ NEWMON_7:0 "$MOURN$"
+ NEWMON_BTN1:0 "好的"
+ NEWMON_BTN2:0 "好的"
+ NEWMON_BTN3:0 "转到"
+ NEWMON_HEADER:0 "一个新的$TITLE$!"
+ NEWMON_LOG:0 "现在$MONARCHNAME$将会统治我们荣耀的国家！"
+ NEWMON_MAP:0 "$MONARCHNAME$万岁！"
+ NEWMON_SETUP:0 "当新任统治者登基"

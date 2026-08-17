@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ divide_roman_empire:0 "分裂罗马帝国"
+ divide_roman_empire_desc:0 "罗马帝国已经发展得如此之大，以至于从罗马的中央所在地治理所有的省份已经不太可行。为了确保罗马人国家的生存，将帝国分为西、东两半可能是明智的。"
+ divide_roman_empire_invictus:0 "分裂罗马帝国"
+ divide_roman_empire_invictus_desc:0 "罗马帝国已经发展得如此之大，以至于从罗马的中央所在地治理所有的省份已经不太可行。为了确保罗马人国家的生存，将帝国分为西、东两半可能是明智的。"
+ divide_roman_empire_tooltip:0 "割绝诺斯特鲁姆海另一边的所有省份，并在那里的新首都设立一位继承人作为统治者。"
+ divided_roman_empire_traditions:0 "恢复罗马军事传统"
+ restore_roman_military_traditions:0 "为新近分裂的罗马帝国一半恢复部分军事传统。"
+ te_other_half_roman_empire:0 "我们的罗马亲属"

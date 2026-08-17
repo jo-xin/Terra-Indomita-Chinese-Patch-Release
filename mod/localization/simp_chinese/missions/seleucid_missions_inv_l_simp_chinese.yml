@@ -1,0 +1,2 @@
+﻿l_simp_chinese:
+ seleukid_mission_01_babylonia_task_6_trigger_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#!在#Y $mesopotamia_region$#!区域拥有的#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_6_absolute_total')|0]#!人口，至少#Y 85%#!为#Y [SCOPE.GetRootScope.GetCountry.GetPrimaryCulture.GetName]#!文化或者某一已整合文化。[SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_01_babylonia_task_6_loc')]"
