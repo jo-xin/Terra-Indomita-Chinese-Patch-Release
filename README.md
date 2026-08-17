@@ -22,6 +22,7 @@ You may subscribe to both the main version and the backup mirror, but only enabl
 
 - `mod/`：实际模组文件，可复制到本地 Imperator: Rome 模组目录。
 - `workshop/`：Steam 创意工坊标题、描述和更新说明草稿。
+- `docs/loading_tips.md`：新增加载格言、选取标准与出处说明。
 - `CHANGELOG.md`：简要更新记录。
 
 ## 本地安装 / Manual Installation

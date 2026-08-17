@@ -31,6 +31,39 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3766505458
 
 本补丁以 Terra Indomita 当前文本为基础，尽量采纳并对照已有社区汉化资源，包括 Imperator Invictus 中文翻译、TEOW（直到世界尽头）相关中文文本，以及玩家实测后反馈的问题修正。剩余缺口主要由 DeepSeek / GPT 等大模型辅助初译，再由人工和 Codex 进行格式检查、上下文核验与术语统一。
 
+
+### 加载格言修复与扩展
+
+原有汉化中，加载格言的 `LOADING_TIP_XXX` 编号存在中断，导致部分后续格言无法正常读取。我们修复了这一问题，并重新整理了加载格言的编号与内容。
+
+在恢复「直到世界尽头」原有中文格言的基础上，我们又补充了大量新的古代格言、史书记载、人物言论与诗句，希望让每一次加载都多少带上一点属于这个时代的气息。
+
+例如：
+
+> “没有人会愚蠢到宁要战争而不要和平；因为和平时，是儿子埋葬父亲；战争时，却是父亲埋葬儿子。”
+> ——克洛伊索斯，希罗多德《历史》
+
+> “我来，我见，我征服。”
+> ——盖乌斯·尤利乌斯·凯撒
+
+> “天下有道，则礼乐征伐自天子出；天下无道，则礼乐征伐自诸侯出。”
+> ——孔子《论语·季氏》
+
+> “秦失其鹿，天下共逐之，于是高材疾足者先得焉。”
+> ——蒯通，《史记·淮阴侯列传》
+
+《Imperator: Rome》原版加载格言本身就没有严格局限于游戏的起止年代，而是取材于一个更加宽广的古典世界：从早期与古典希腊，一直延伸到罗马共和国乃至公元二世纪的罗马帝国。
+
+因此，我们也采用了相近的标准扩展中国部分：不局限于游戏开局时的战国后期，而是从更早的古典文献与春秋战国时代出发，经过诸子百家、战国兼并、秦统一、秦末楚汉、西汉帝国，一直延伸至东汉中期、十常侍时代以前。
+
+其中既有孔子、老子、孟子、庄子、墨子、荀子、韩非、孙子等诸子，也有商鞅、李斯、嬴政、陈胜、刘邦、项羽、韩信、霍去病、班超、马援等真正置身于政治与战争中的人物；既有治国、战争与权力，也有兴亡、民生、财富、理想与个人命运。
+
+我们并不追求单纯增加数量，而更希望保留那些即使脱离上下文，仍然能够让人停下来读一眼的句子。
+
+完整的新增加载格言及出处整理见 GitHub：
+
+https://github.com/jo-xin/Terra-Indomita-Chinese-Patch-Release/blob/master/docs/loading_tips.md
+
 需要说明的是，本补丁属于 AI 辅助汉化与人工校对混合产物，不保证译文完全准确。事件链、任务树、专名、古代制度和区域语境中仍然可能存在误译、错配、风格不统一或显示问题。它更适合“先能体验 Terra Indomita 中文内容”，不应视为最终质量的正式译本。如发现问题，欢迎在评论区指出具体国家、事件、任务或截图位置。
 
 ## English Description
@@ -48,4 +81,17 @@ Please do not enable the main version and the backup mirror at the same time. Bo
 
 The patch is based on Terra Indomita's current text and cross-checks existing community translations where possible, including the Imperator Invictus Chinese translation, TEOW-related Chinese localization, and fixes from player reports. Remaining gaps were first drafted with assistance from large language models such as DeepSeek / GPT, then checked by humans and Codex for formatting, context, and terminology consistency.
 
+
+### Loading Tip Fixes and Expansion
+
+The previous localization had a gap in its LOADING_TIP_XXX numbering, which could prevent later loading tips from being read correctly. This has been fixed, and the loading tips have been reorganized.
+
+In addition to restoring and reorganizing the existing Chinese loading tips from TEOW, this patch adds many new ancient quotes, historical remarks, classical passages, and poems. The selection covers the wider classical world, including Greece and Rome, as well as Chinese material from early classics and the Spring and Autumn / Warring States periods through Qin, Chu-Han, Western Han, and the middle Eastern Han period.
+
+The goal is not simply to increase the number of tips, but to include lines that remain memorable and readable even outside their original context.
+
+Full list and notes:
+https://github.com/jo-xin/Terra-Indomita-Chinese-Patch-Release/blob/master/docs/loading_tips.md
+
 Please note that this is an AI-assisted localization with manual review, not a guaranteed final-quality translation. Event chains, mission trees, proper names, ancient institutions, and regional context may still contain mistranslations, mismatches, inconsistent style, or display issues. It is intended mainly to make Terra Indomita more playable in Chinese. If you find a problem, reports with the country, event, mission, or screenshot location are very welcome.
+
