@@ -15,13 +15,13 @@
 ## 更新记录
 
 ```text
-补齐若干 Terra 本体遗漏的界面与修正本地化，继续修复玩家实测中发现的裸 key、错配和显示问题。
+新增四张中式加载图（荆轲刺秦王、秦皇大典、鸿门宴、张骞出长安）；继续修复玩家实测中发现的裸 key、错配和显示问题。
 ```
 
 ## Change Note
 
 ```text
-Fixed several missing Terra UI/modifier localizations and continued cleaning player-reported bare keys, mismatches, and display issues.
+Added four Chinese-themed loading screens (Jing Ke's Assassination Attempt, the Grand Ceremony of Qin, the Feast at Hong Gate, and Zhang Qian's Departure from Chang'an); continued cleaning player-reported bare keys, mismatches, and display issues.
 ```
 
 ## 中文描述
