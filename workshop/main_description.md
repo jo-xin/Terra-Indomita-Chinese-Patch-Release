@@ -81,6 +81,10 @@ Added four Chinese-themed loading screens (Jing Ke's Assassination Attempt, the 
 完整的新增加载格言及出处整理见 GitHub：
 [b][url=https://github.com/jo-xin/Terra-Indomita-Chinese-Patch-Release/blob/master/docs/loading_tips.md]loading_tips.md[/url][/b]
 
+[h1]中式加载图[/h1]
+
+本次更新新增四张中式主题加载图：[b]荆轲刺秦王[/b]、[b]秦皇大典[/b]、[b]鸿门宴[/b]、[b]张骞出长安[/b]，分别取材于秦统一前后的历史场景。它们会与 Terra Indomita 及原版加载图一起在加载界面随机轮换，不覆盖任何现有图片。
+
 [h1]质量声明[/h1]
 
 [quote]
@@ -152,6 +156,10 @@ The goal is not simply to increase the number of tips, but to include lines that
 
 Full list and notes:
 [b][url=https://github.com/jo-xin/Terra-Indomita-Chinese-Patch-Release/blob/master/docs/loading_tips.md]loading_tips.md[/url][/b]
+
+[h1]Chinese-themed Loading Screens[/h1]
+
+This update adds four Chinese-themed loading screens: [b]Jing Ke's Assassination Attempt[/b], [b]the Grand Ceremony of Qin[/b], [b]the Feast at Hong Gate[/b], and [b]Zhang Qian's Departure from Chang'an[/b], each drawn from a key historical scene around the unification of China. They rotate together with Terra Indomita's and the vanilla loading screens and overwrite nothing.
 
 [h1]Quality Notice[/h1]
 

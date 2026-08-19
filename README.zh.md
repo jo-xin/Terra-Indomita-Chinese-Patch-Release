@@ -19,6 +19,19 @@
 
 剩余缺口主要由 DeepSeek / GPT 等大模型辅助初译，再进行人工和工具校验，包括格式检查、上下文核验、术语统一和游戏内显示问题修正。
 
+## 加载图
+
+本补丁内置四张中式主题加载图，取材于秦统一前后的历史场景：
+
+| 主题 | 文件 |
+|---|---|
+| 荆轲刺秦王 | `gfx/loadingscreens/load_10.dds` |
+| 秦皇大典 | `gfx/loadingscreens/load_11.dds` |
+| 鸿门宴 | `gfx/loadingscreens/load_12.dds` |
+| 张骞出长安 | `gfx/loadingscreens/load_13.dds` |
+
+加载图会与 Terra Indomita 及原版加载图一起在加载界面随机轮换，不覆盖任何现有图片。图片为 1920×1080 的 DXT1 DDS 纹理，想用自己的图的玩家可以直接替换这些文件。
+
 ## 安装
 
 Steam 创意工坊主版：

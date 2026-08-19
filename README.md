@@ -19,6 +19,19 @@ The patch is based on Terra Indomita's current text and cross-checks existing co
 
 Remaining gaps were drafted with assistance from large language models such as DeepSeek / GPT, then checked for formatting, context, terminology, and in-game display issues.
 
+## Loading Screens
+
+The patch ships with four Chinese-themed loading screens drawn from key historical scenes around the unification of China:
+
+| Scene | File |
+|---|---|
+| Jing Ke's Assassination Attempt | `gfx/loadingscreens/load_10.dds` |
+| The Grand Ceremony of Qin | `gfx/loadingscreens/load_11.dds` |
+| The Feast at Hong Gate | `gfx/loadingscreens/load_12.dds` |
+| Zhang Qian's Departure from Chang'an | `gfx/loadingscreens/load_13.dds` |
+
+They rotate together with Terra Indomita's and the vanilla loading screens, overwriting nothing. The images are 1920×1080 DXT1 DDS textures; replace these files directly if you want your own art.
+
 ## Installation
 
 Steam Workshop main version:
