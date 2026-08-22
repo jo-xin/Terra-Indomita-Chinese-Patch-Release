@@ -19,6 +19,13 @@
 
 剩余缺口主要由 DeepSeek / GPT 等大模型辅助初译，再进行人工和工具校验，包括格式检查、上下文核验、术语统一和游戏内显示问题修正。
 
+## 版本
+
+- **正式版汉化**（对应 Steam 创意工坊公开版 Terra Indomita 1.7.1）：
+  - [主版](https://steamcommunity.com/sharedfiles/filedetails/?id=3766505458) | [备用镜像](https://steamcommunity.com/sharedfiles/filedetails/?id=3784985340)
+- **Dev 1.9 开发版汉化**（仅适用于 Discord / GitHub dev 分支的 1.9 开发版，质量不保证）：
+  - [Dev 1.9 版](https://steamcommunity.com/sharedfiles/filedetails/?id=3787836860)
+
 ## 加载图
 
 本补丁内置四张中式主题加载图，取材于秦统一前后的历史场景：

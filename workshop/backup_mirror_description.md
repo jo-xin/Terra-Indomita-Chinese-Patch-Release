@@ -34,6 +34,9 @@ Mirrors the main localization patch (now with four new Chinese-themed loading sc
 主版：
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3766505458][PQ] Terra Indomita 简体中文汉化[/url][/b]
 
+Dev 1.9 开发版汉化（Discord / GitHub dev 分支专用）：
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3787836860][PQ] Terra Indomita 简体中文汉化（Dev 1.9 版）[/url][/b]
+
 [h1]这个版本是做什么的？[/h1]
 
 本备用版内容原则上与主版保持一致，但不会总是与主版同时更新。它的用途是：当主版工坊物品因为 Steam 自动内容检查而暂时隐藏、无法访问或无法加载时，玩家可以临时切换到本备用镜像版继续游玩。
@@ -111,6 +114,9 @@ This is the backup mirror version of the Simplified Chinese localization patch f
 
 Main version:
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3766505458][PQ] Terra Indomita Chinese Localization[/url][/b]
+
+Dev 1.9 localization (for Discord / GitHub dev builds only):
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3787836860][PQ] Terra Indomita Chinese Localization (Dev 1.9)[/url][/b]
 
 [h1]What is this version for?[/h1]
 

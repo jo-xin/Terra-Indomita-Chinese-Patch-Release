@@ -19,6 +19,13 @@ The patch is based on Terra Indomita's current text and cross-checks existing co
 
 Remaining gaps were drafted with assistance from large language models such as DeepSeek / GPT, then checked for formatting, context, terminology, and in-game display issues.
 
+## Versions
+
+- **Stable localization** (for the Steam Workshop public release of Terra Indomita 1.7.1):
+  - [Main version](https://steamcommunity.com/sharedfiles/filedetails/?id=3766505458) | [Backup mirror](https://steamcommunity.com/sharedfiles/filedetails/?id=3784985340)
+- **Dev 1.9 localization** (only for dev 1.9 builds from Discord / GitHub; quality not guaranteed):
+  - [Dev 1.9 version](https://steamcommunity.com/sharedfiles/filedetails/?id=3787836860)
+
 ## Loading Screens
 
 The patch ships with four Chinese-themed loading screens drawn from key historical scenes around the unification of China:

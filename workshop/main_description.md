@@ -34,6 +34,9 @@ Added four Chinese-themed loading screens (Jing Ke's Assassination Attempt, the 
 备用镜像版：
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3784985340][PQ] Terra Indomita 简体中文汉化 - 备用镜像[/url][/b]
 
+Dev 1.9 开发版汉化（Discord / GitHub dev 分支专用）：
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3787836860][PQ] Terra Indomita 简体中文汉化（Dev 1.9 版）[/url][/b]
+
 [h1]翻译说明[/h1]
 
 本补丁以 Terra Indomita 当前文本为基础，尽量采纳并对照已有社区汉化资源，包括 Imperator Invictus 中文翻译、TEOW（直到世界尽头）相关中文文本，以及玩家实测后反馈的问题修正。
@@ -111,6 +114,9 @@ This is the main Simplified Chinese localization patch for the Imperator: Rome o
 
 Backup mirror:
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3784985340][PQ] Terra Indomita Chinese Localization - Backup Mirror[/url][/b]
+
+Dev 1.9 localization (for Discord / GitHub dev builds only):
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3787836860][PQ] Terra Indomita Chinese Localization (Dev 1.9)[/url][/b]
 
 [h1]Translation Notes[/h1]
 
