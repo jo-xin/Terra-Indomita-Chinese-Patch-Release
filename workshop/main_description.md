@@ -15,13 +15,13 @@
 ## 更新记录
 
 ```text
-新增四张中式加载图（荆轲刺秦王、秦皇大典、鸿门宴、张骞出长安）；继续修复玩家实测中发现的裸 key、错配和显示问题。
+新增四张中式加载图（荆轲刺秦王、秦皇大典、鸿门宴、张骞出长安）；补齐剩余任务缺口并修复两处文本截断；修复荆轲姓氏显示；统一六十余组并存译名（锡基翁、帕加马、摩揭陀、费赞等）；区分东海与东海海域。
 ```
 
 ## Change Note
 
 ```text
-Added four Chinese-themed loading screens (Jing Ke's Assassination Attempt, the Grand Ceremony of Qin, the Feast at Hong Gate, and Zhang Qian's Departure from Chang'an); continued cleaning player-reported bare keys, mismatches, and display issues.
+Added four Chinese-themed loading screens (Jing Ke's Assassination Attempt, the Grand Ceremony of Qin, the Feast at Hong Gate, and Zhang Qian's Departure from Chang'an); filled remaining mission gaps and fixed two truncated texts; fixed Jing Ke's family name; unified 60+ inconsistent name renderings (Sicyon, Pergamon, Magadha, Fezzan, etc.); disambiguated the Donghai sea area.
 ```
 
 ## 中文描述

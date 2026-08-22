@@ -15,13 +15,13 @@
 ## 更新记录
 
 ```text
-同步主版汉化内容（含新增四张中式加载图），用作 Steam 自动审核期间的备用订阅入口。
+同步主版汉化内容（新增四张中式加载图、译名统一等更新），用作 Steam 自动审核期间的备用订阅入口。
 ```
 
 ## Change Note
 
 ```text
-Mirrors the main localization patch (now with four new Chinese-themed loading screens) as a fallback subscription during Steam automated review delays.
+Mirrors the main localization patch (now with four new Chinese-themed loading screens and unified name renderings) as a fallback subscription during Steam automated review delays.
 ```
 
 ## 中文描述
